@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Execution-Time Phase-Budget Attribution for Quantum Circuit Evaluation"
+authors:
+  - family-names: "Wells"
+    given-names: "A. R."
+    orcid: "https://orcid.org/0009-0003-1053-9421"
+affiliation: "Dual-Frame Research Group"
+date-released: 2026
+license: "CC-BY-4.0"
+repository-code: "https://github.com/arwells-research/compact-fiber-phase-budget-diagnostics"
+keywords:
+  - compact fiber
+  - quantum circuits
+  - coherence exposure
+  - phase budget
+  - quantum computing
+  - circuit scheduling
+  - theoretical physics
+  - quantum information

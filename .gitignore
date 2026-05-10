@@ -1,0 +1,25 @@
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# Python/cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Temporary scratch
+scratch/
+tmp/
