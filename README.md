@@ -1,5 +1,7 @@
 # Execution-Time Phase Exposure in Quantum Circuits
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20102746.svg)](https://doi.org/10.5281/zenodo.20102746)
+
 **Author:** A. R. Wells  
 **Affiliation:** Dual-Frame Research Group  
 **License:** CC BY 4.0  

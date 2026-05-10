@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this work, please cite it using the metadata below."
-title: "Execution-Time Phase-Budget Attribution for Quantum Circuit Evaluation"
+title: "Execution-Time Phase Exposure in Quantum Circuits: A Missing Diagnostic Layer for Coherence-Relevant Idle Time"
 authors:
   - family-names: "Wells"
     given-names: "A. R."
@@ -8,13 +8,13 @@ authors:
 affiliation: "Dual-Frame Research Group"
 date-released: 2026
 license: "CC-BY-4.0"
-repository-code: "https://github.com/arwells-research/compact-fiber-phase-budget-diagnostics"
+doi: "10.5281/zenodo.20102746"
+repository-code: "https://github.com/arwells-research/compact-fiber-phase-exposure-whitepaper"
 keywords:
-  - compact fiber
-  - quantum circuits
-  - coherence exposure
-  - phase budget
   - quantum computing
-  - circuit scheduling
-  - theoretical physics
-  - quantum information
+  - quantum circuits
+  - phase exposure
+  - coherence exposure
+  - idle time
+  - compact fiber
+  - quantum engineering
